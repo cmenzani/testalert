@@ -12,4 +12,4 @@
 
 thenftmagaz-events.json
 
-TEST x commit (cancellare)
+ 
