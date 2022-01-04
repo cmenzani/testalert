@@ -1,0 +1,1 @@
+# per capire e testare le potenzialità della libreria => pandas

@@ -1,0 +1,15 @@
+0x7be8076f4ea4a4ad08075c2508e481d6c946d12b	<<< exchange | contract OpenSea non ho capito a che serve
+
+0x495f947276749ce646f68ac8c248420045cb7b5e	<<< maker | address |smart contract OpenSea che crea ERC1155
+
+0x6da705478b5c1fd9cac9e664015c0db98bd1a3a0	<<< address token creator TheNFTmag
+
+49597200392958280165177755798765298064312831948909620000388784437249020265148	<<< token_id
+
+0xC4d646d92E180d7f385c6e35c2aE7749d6CcE9Dd	<<< Ledger HOT wallet
+
+0x6Da705478b5C1FD9Cac9E664015c0dB98Bd1A3A0
+
+thenftmagaz-events.json
+
+TEST x commit (cancellare)
